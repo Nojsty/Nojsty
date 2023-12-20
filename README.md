@@ -1,6 +1,6 @@
-# Jakub Neustadt
+# Hello, I am Jakub Neustadt 👨‍💻
 
-**`test`**
+**`Visual Informatics Student Seeking Full-Time Job`**
 
 I am a computer graphics master's degree student passionate about being part of a meaningful project. I have extensive knowledge of various software tools and programming languages, such as Unreal Engine, Blender, C++, and OpenGL. I am looking for a position that will allow me to gain practical experience and learn new skills in a professional setting.
 
@@ -17,7 +17,7 @@ I am a computer graphics master's degree student passionate about being part of 
 
 ---
 
-### Languages
+### 🔧 Languages
 
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"/>
