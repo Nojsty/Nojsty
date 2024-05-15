@@ -11,8 +11,8 @@ I am a computer graphics master's degree student passionate about being part of 
     <img alt="Github repositories link" title="Github Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-green?style=for-the-badge&logoColor=white&logo=repo"></a>
   <a href="mailto:jakub.neustadt@gmail.com">
     <img alt="E-mail me link" title="E-mail" src="https://custom-icon-badges.demolab.com/badge/-jakub.neustadt@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"></a>
-  <a href="https://www.eyeem.com/u/nojsty/photos">
-    <img alt="Photos link" title="Eyeem" src="https://custom-icon-badges.demolab.com/badge/-Eyeem-yellow?style=for-the-badge&logoColor=white&logo=device-camera"></a>
+  <a href="https://500px.com/p/jakubneustadt">
+    <img alt="Photos link" title="Photos" src="https://custom-icon-badges.demolab.com/badge/-Photos-yellow?style=for-the-badge&logoColor=white&logo=device-camera"></a>
 </p>
 
 ---
